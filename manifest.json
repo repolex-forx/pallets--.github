@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "pallets",
+  "repo": ".github",
+  "versions": [
+    {
+      "commit": "06702680f531ba49dc901b584479048ab55724f1",
+      "parsed_at": "2026-10-11T09:16:37.117110+00:00",
+      "filetree": "filetree/06702680f531ba49dc901b584479048ab55724f1.nq.gz",
+      "blobs": [
+        "blob/17cd6bed3c0392591e65e57162f8203094d98097.nq.gz",
+        "blob/31954510b7067fc761286583173a0bdaf03f066a.nq.gz",
+        "blob/703b4fbb4c5518ecdf14074ce3d23c431c2eda0d.nq.gz",
+        "blob/4e3616333c0242605106e6820c04f05e85003ea8.nq.gz",
+        "blob/a51ce41a726db60f4ef8b0252c79dbf542e09485.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
